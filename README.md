@@ -46,7 +46,7 @@ _ = view_samples(symbols, 1, 5)
 
 
     
-![png](fertig_files/fertig_5_0.png)
+![png](png_files/fertig_5_0.png)
     
 
 
@@ -61,7 +61,7 @@ _ = view_samples(noise, 4, 5)
 
 
     
-![png](fertig_files/fertig_7_0.png)
+![png](png_files/fertig_7_0.png)
     
 
 
@@ -224,7 +224,7 @@ _ = view_samples(generated, 10, 10)
 
 
     
-![png](fertig_files/fertig_21_0.png)
+![png](png_files/fertig_21_0.png)
     
 
 
@@ -245,7 +245,7 @@ _ = view_samples(gen, 5, 1)
 
 
     
-![png](fertig_files/fertig_22_0.png)
+![png](png_files/fertig_22_0.png)
     
 
 
@@ -262,7 +262,7 @@ plt.title("Discriminator error function")
 
 
     
-![png](fertig_files/fertig_23_0.png)
+![png](png_files/fertig_23_0.png)
     
 
 
@@ -275,6 +275,6 @@ plt.title("Discriminator error function")
 
 
     
-![png](fertig_files/fertig_23_2.png)
+![png](png_files/fertig_23_2.png)
     
 
